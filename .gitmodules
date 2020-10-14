@@ -1,6 +1,6 @@
 [submodule "servant/protocol"]
 	path = servant/protocol
-	url = https://github.com/TarsCloud/TarsProtocol.git
+	url = git@github.com:jackeylu/TarsProtocol.git
 [submodule "unittest"]
 	path = unittest
-	url = https://github.com/TarsCloud/tars-unittest.git
+	url = git@github.com:jackeylu/tars-unittest.git
